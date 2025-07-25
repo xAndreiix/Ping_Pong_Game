@@ -40,3 +40,10 @@ python ping_pong_game.py
 
 ```bash```
 python -m unittest test_ping_pong_game.py
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+- Andrei Iliescu
+- Built with focus on clean UI and functional design.
