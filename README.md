@@ -2,12 +2,16 @@
 
 A classic two-player Ping Pong game built using Python and Pygame. The game features smooth paddle controls, dynamic ball physics, and real-time score tracking.
 
+---
+
 ## Features
 
 - Two-player mode: left paddle (W/S) and right paddle (UP/DOWN)
 - Real-time score display
 - Ball bouncing mechanics with collision detection
 - Automatic ball reset and score increment when out of bounds
+
+---
 
 ## Project Structure
 
@@ -20,6 +24,8 @@ ping_pong_game/
 └── README.md              # Project documentation
 ```
 
+---
+
 ## Requirements
 
 - Python 3.7+
@@ -30,19 +36,26 @@ To install Pygame:
 ```bash```
 pip install pygame
 
+---
+
 ## How to Run
 
 ```bash```
 python ping_pong_game.py
 
+---
 
 ## How to Test
 
 ```bash```
 python -m unittest test_ping_pong_game.py
 
+---
+
 ## License
 This project is licensed under the MIT License.
+
+---
 
 ## Author
 - Andrei Iliescu
